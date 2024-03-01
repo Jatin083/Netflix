@@ -27,6 +27,7 @@ To view the page, simply open the `index.html` file in a web browser.
 
 ```bash
 $ open index.html
+$ open style.css
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
